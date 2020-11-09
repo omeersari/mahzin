@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/rankings">Rankings</router-link> |
+      <router-link to="/rules"> How it works ? </router-link>
     </div>
     <router-view />
   </div>
